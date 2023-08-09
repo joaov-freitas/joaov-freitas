@@ -1,6 +1,6 @@
 - 👋 Hi, I’m João Victor Freitas. I am a Computer Science student at UFF
 - 👀 I’m currently studing Web Developing by myself besides Computer Science. I’m interested in Back-End and Front-End.
-- 🌱 I’m currently ReactJS and PHP.
+- 🌱 My focus is on ReactJS and PHP.
 - 📫 You can reach me at joaovfreitas00@gmail.com or my LinkedIn: https://www.linkedin.com/in/joaov-freitas/
 
 <!---
